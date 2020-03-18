@@ -1,5 +1,5 @@
-# GymManager2.0---Rocketseat
-Aprimoramento do novo projeto que consiste em um controle de cadastro de membros e instrutores com o banco de dados PostgreSQL
+# GymManager2.0 - Curso LaunchBase Rocketseat
+### Aprimoramento do novo projeto que consiste em um controle de cadastro de membros e instrutores com o banco de dados PostgreSQL
 
 -> Linguagens utilizadas: HTML, JavaScript e CSS
 
@@ -33,3 +33,5 @@ Aprimoramento do novo projeto que consiste em um controle de cadastro de membros
      Utilização de filtro no sistema através de uma barra de pesquisa;
      
      Ordem de exibição de dados no sistema através de datas, etc.
+
+![Gift do projeto](https://github.com/ArtToledo/GymManager2.0---Rocketseat/blob/master/GymManager2.0.gif)
